@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CodigoBarras">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CodigoBarras.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
